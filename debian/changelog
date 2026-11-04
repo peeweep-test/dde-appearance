@@ -1,3 +1,10 @@
+dde-appearance (6.5.13) unstable; urgency=medium
+
+  * fix: avoid dde-appearance abort on invalid Accounts1 path
+  * fix(ci): pass App secrets to release workflow
+
+ -- Zhao Fangxun <zhaofangxun@uniontech.com>  Wed, 04 Nov 2026 14:32:42 +0800
+
 dde-appearance (1.1.87) unstable; urgency=medium
 
   * fix: deepinwmrc not synchronized (PMS: BUG-352365)
